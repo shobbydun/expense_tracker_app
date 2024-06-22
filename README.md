@@ -26,10 +26,10 @@ For any issues, ensure proper configuration and refer to the official Android St
 
 
 # Screenshots
+![WhatsApp Image 2024-06-22 at 22 37 36](https://github.com/shobbydun/weather_App/assets/87327873/7f57e158-db51-4e1a-b623-76ae3fe1bb31)
+![WhatsApp Image 2024-06-22 at 22 37 42](https://github.com/shobbydun/weather_App/assets/87327873/9b714bf0-828c-42af-bed9-1f1df9e7d582)
 ![WhatsApp Image 2024-06-22 at 22 37 39](https://github.com/shobbydun/weather_App/assets/87327873/cfcde797-9aa8-40ca-8279-1309f1d25c1d)
 ![WhatsApp Image 2024-06-22 at 22 37 40](https://github.com/shobbydun/weather_App/assets/87327873/7d37f52e-8ad0-4d72-bd15-0814dabb5858)
 ![WhatsApp Image 2024-06-22 at 22 37 41](https://github.com/shobbydun/weather_App/assets/87327873/9dbbb594-f4a9-4db4-8774-9ffe09feb02a)
-![WhatsApp Image 2024-06-22 at 22 37 42](https://github.com/shobbydun/weather_App/assets/87327873/9b714bf0-828c-42af-bed9-1f1df9e7d582)
-![WhatsApp Image 2024-06-22 at 22 37 36](https://github.com/shobbydun/weather_App/assets/87327873/7f57e158-db51-4e1a-b623-76ae3fe1bb31)
 ![WhatsApp Image 2024-06-22 at 22 37 37](https://github.com/shobbydun/weather_App/assets/87327873/e1f93597-30ed-4775-a1f4-5340eb220a4a)
 ![WhatsApp Image 2024-06-22 at 22 37 38](https://github.com/shobbydun/weather_App/assets/87327873/a192f3e8-b5cb-4e08-b865-442085788283)
